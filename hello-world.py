@@ -1,1 +1,1 @@
-print('Selam dünyali for Jenkins')
+print('Selam dünyali')
